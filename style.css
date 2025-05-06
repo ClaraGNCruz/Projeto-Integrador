@@ -1,4 +1,7 @@
 body {background: linear-gradient(to right, #f3c0f3, #f5b29e);
-  
+   display: flex;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
 }
 h1 {text-align: center;}
